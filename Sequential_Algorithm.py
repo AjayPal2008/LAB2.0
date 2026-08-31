@@ -12,7 +12,7 @@
 # Date:         31 August 2026
 
 # (Ajay) E.King Gill statue from Zach 240
-print("Leave Zach 240")
+print("Leave Zach 240") # gga
 print("Take a left and walk towards starbucks")
 print("After crossing starbucks, go down stairs")
 print("Turn Left to the main exit and exit on Spence Street")
