@@ -1,11 +1,15 @@
 # By submitting this assignment, I agree to the following:
-# "Aggies do not lie, cheat, or steal, or tolerate those who do."
-# "I have not given or received any unauthorized aid on this assignment."
+#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
+#   "I have not given or received any unauthorized aid on this assignment."
 #
-# Name: Ajay P
-# Section: ENGR 102 508
-# Assignment: LAB 0
-# Date: 08/31/2026
+# Names:        Micah Kadiri
+#               Benjamin Hatch
+#               Ajay Palanisamy
+#               Hudsob Dobbs
+#
+# Section:      508
+# Assignment:   Lab Topic 2 (Team: Part 1)
+# Date:         31 August 2026
 
 # E.King Gill statue from Zach 240
 print("Leave Zach 240")
