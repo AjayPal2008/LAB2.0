@@ -11,7 +11,7 @@
 # Assignment:   Lab Topic 2 (Team: Part 1)
 # Date:         31 August 2026
 
-# E.King Gill statue from Zach 240
+# (Ajay) E.King Gill statue from Zach 240
 print("Leave Zach 240")
 print("Take a left and walk towards starbucks")
 print("After crossing starbucks, go down stairs")
@@ -31,7 +31,7 @@ print("Walk straight till you reach the intersection")
 print("Turn onto Joe Routt Blvd.")
 print("You will find E.King Gill statue  on the Left upon crossing Texas A and M career center")
 
-# Instructions to go from ZACH Exit on Spence Street to Matthew Gaines Statue
+# (Hudson) Instructions to go from ZACH Exit on Spence Street to Matthew Gaines Statue
 print("Leave ZACH 240")
 print("Immediately take a left and walk towards where the starbucks")
 print("Once you reach the Starbucks take the half flight of stairs down to the main floor where you will reach the atrium")
