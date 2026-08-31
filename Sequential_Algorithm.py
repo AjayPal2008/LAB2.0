@@ -57,6 +57,7 @@ print("Stay on Throckmorton Street until you reach Joe Routt Boulevard, and take
 print("Continue on Joe Routt Boulevard, pass Houston Street on the left, then turn a left right after you pass Houston Street.")
 print("You have arrived at the E. King Hill statue.")
 
+#Steps to get to the giant Aggie ring statue in Haynes Ring Plaza from ZACH-240 - Micah
 print ("Step out of room ZACH-240")
 print ("Immediately take a left and walk towards where the starbucks")
 print ("Once you reach the starbucks take the half flight of stairs down to the main floor whee you will reach the atrium")
