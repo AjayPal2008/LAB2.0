@@ -6,8 +6,8 @@
 # Section: ENGR 102 508
 # Assignment: LAB 0
 # Date: 08/31/2026
-# E.King Gill statue from Zach 240
 
+# E.King Gill statue from Zach 240
 print("Leave Zach 240")
 print("Take a left and walk towards starbucks")
 print("After crossing starbucks, go down stairs")
@@ -26,3 +26,16 @@ print("Turn Left onto ThrockMorton Street")
 print("Walk straight till you reach the intersection")
 print("Turn onto Joe Routt Blvd.")
 print("You will find E.King Gill statue  on the Left upon crossing Texas A and M career center")
+
+# Instructions to go from ZACH Exit on Spence Street to Matthew Gaines Statue
+print("Leave ZACH 240")
+print("Immediately take a left and walk towards where the starbucks")
+print("Once you reach the Starbucks take the half flight of stairs down to the main floor where you will reach the atrium")
+print("Once at the atrium take a left to the main exit and exit on Spence street")
+print("Walk from the Exit of ZACH 240 on Spence street to the sidewalk along Spence Street heading towards Ross Street")
+print("Once at the Intersection of Spence Street and Ross Street, take a right on Ross Street")
+print("Follow the sidewalk along Ross Street towards Houston Street")
+print("Once at the Fish pond, look 90 degrees to the left and cross Ross Street to be on Houston Street")
+print("Once on the sidewalk along Houston Street, walk towards the MSC for nearly a 1/4 mile")
+print("After passing the Student Services Building take a left")
+print("Walk 20ft along this path and placed just to the right of the sidewalk is the Matthew Gaines Statue")
