@@ -40,9 +40,9 @@ print("Walk from the Exit of ZACH 240 on Spence street to the sidewalk along Spe
 print("Once at the Intersection of Spence Street and Ross Street, take a right on Ross Street")
 print("Follow the sidewalk along Ross Street towards Houston Street")
 print("Once at the Fish pond, look 90 degrees to the left and cross Ross Street to be on Houston Street")
-print("Once on the sidewalk along Houston Street, walk towards the MSC for nearly a 1/4 mile")
-print("After passing the Student Services Building take a left")
-print("Walk 20ft along this path and placed just to the right of the sidewalk is the Matthew Gaines Statue")
+print("Once on the sidewalk along Houston Street, walk towards the MSC for nearly a 1/4 mile") #how will the walker automatically know which direction the MSC is in?
+print("After passing the Student Services Building, take a left")
+print("Walk 20ft along this path and placed just to the right of the sidewalk is the Matthew Gaines Statue") #other than the note above, clear and concise directions.
 
 # (Benjamin) Instructions to go from ZACH240 to E. King Hill statue.
 print("Leave ZACH240.")
