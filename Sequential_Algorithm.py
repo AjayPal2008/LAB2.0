@@ -6,7 +6,6 @@
 #               Benjamin Hatch
 #               Ajay Palanisamy
 #               Hudson Dobbs
-#
 # Section:      508
 # Assignment:   Lab Topic 2 (Team: Part 1)
 # Date:         31 August 2026
