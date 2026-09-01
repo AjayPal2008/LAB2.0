@@ -5,7 +5,7 @@
 # Names:        Micah Kadiri
 #               Benjamin Hatch
 #               Ajay Palanisamy
-#               Hudsob Dobbs
+#               Hudson Dobbs
 #
 # Section:      508
 # Assignment:   Lab Topic 2 (Team: Part 1)
