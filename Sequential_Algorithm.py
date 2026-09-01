@@ -60,7 +60,7 @@ print("You have arrived at the E. King Hill statue.") # good directions overall
 # (Micah) Steps to get to the giant Aggie ring statue in Haynes Ring Plaza from ZACH-240
 print ("Step out of room ZACH-240")
 print ("Immediately take a left and walk towards where the starbucks")
-print ("Once you reach the starbucks take the half flight of stairs down to the main floor whee you will reach the atrium")
+print ("Once you reach the starbucks take the half flight of stairs down to the main floor where you will reach the atrium")
 print ("Once at the atrium take a left to the main exit and exit on spence street")
 print ("When you are on spence street take a left and begin walking down the street")
 print ("To know if you are on the right path you should pass building such as the building of Mechanical Engineering and Harey R. Bright Building") # good specific directions
