@@ -29,6 +29,11 @@ print("Turn Left onto ThrockMorton Street")
 print("Walk straight till you reach the intersection")  # which intersection?
 print("Turn onto Joe Routt Blvd.")
 print("You will find E.King Gill statue  on the Left upon crossing Texas A and M career center")
+#Micah Comments
+# In which diirection is the straigh in (line 18)
+# Which intersections are we going to (line 25)
+# What intersection are we walking to (line 29)
+# Aside from these this is a good direction
 
 # (Hudson) Instructions to go from ZACH Exit on Spence Street to Matthew Gaines Statue
 print("Leave ZACH 240")
@@ -42,6 +47,8 @@ print("Once at the Fish pond, look 90 degrees to the left and cross Ross Street 
 print("Once on the sidewalk along Houston Street, walk towards the MSC for nearly a 1/4 mile") # how will the walker automatically know which direction the MSC is in?
 print("After passing the Student Services Building, take a left") # how does the building look?
 print("Walk 20ft along this path and placed just to the right of the sidewalk is the Matthew Gaines Statue") # other than the note above, clear and concise directions.
+#Micah Comments
+# Personally I think this was a clear way of directing someone, the only possible complaint is that they may not know which building is which
 
 # (Benjamin) Instructions to go from ZACH240 to E. King Hill statue.
 print("Leave ZACH240.")
@@ -55,6 +62,9 @@ print("Continue until you reach Throckmorton Street, and then take a right.") # 
 print("Stay on Throckmorton Street until you reach Joe Routt Boulevard, and take a right onto it.")
 print("Continue on Joe Routt Boulevard, pass Houston Street on the left, then turn a left right after you pass Houston Street.")
 print("You have arrived at the E. King Hill statue.") # good directions overall
+#Micah Comments
+#If there are plauqes which show the names of these statues then this is a very good directions, if not how will they know them?
+#(Personally I'm not sure if there are)
 
 # (Micah) Steps to get to the giant Aggie ring statue in Haynes Ring Plaza from ZACH-240
 print ("Step out of room ZACH-240")
