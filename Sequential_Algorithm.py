@@ -17,7 +17,7 @@ print("After crossing starbucks, go down stairs") # passing can be used instead 
 print("Turn Left to the main exit and exit on Spence Street")
 print("walk straight on Spence st. till you reach Liberal Arts and Humanities Building") # straight which direction
 print("turn right onto ThrockMorton Stree")
-print("walk until you reach Sterling C. Evans Library")
+print("walk until you reach Sterling C. Evans Library") #is there a sign that says that it's Sterling C. Evans Library?
 print("turn left and walk  on the sidewalk till you reach Lamar st.")
 print("turn right onto Lamar Street")
 print("walk until you reach the Department of Biology") # department of biology building?
@@ -80,3 +80,4 @@ print ("When you reach the building take a left and walk straight down till you 
 print ("Walk straight down Coke Street past buildings such as the Sanders Corps of Cadets Centre, and the Memorial bench.")
 print ("Continue Walking till you reach the intersections and make your way to George Bush Dr") # which intersection?
 print ("Walk down till you see the Association of Former students building and there you will see the Giant Aggie Ring")
+#Good directions overall, much more clear than mine.
