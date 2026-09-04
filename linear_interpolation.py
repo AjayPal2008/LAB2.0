@@ -8,7 +8,7 @@
 #                           Hudson Dobbs
 # Section:            508
 # Assignment:    Lab Topic 2 (Team: Part 1)
-# Date:                4 september 2026
+# Date:                4 September 2026
 
 
 from math import *
