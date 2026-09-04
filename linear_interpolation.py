@@ -19,3 +19,11 @@ y_intercept = initial_distance - slope * initial_time
 time = 25 #float(input("Enter a time in minutes to calculate the distance traveled: "))
 print("The distance traveled is", (slope * time + y_intercept)%42376.6, "kms")# for part one put in 25 mins as Input remove input function.
 
+#Part 1 
+i_d = 2030 #kilometres
+i_t = 10
+f_d = 23030 #kilometres
+f_t = 55
+distance = float(input("Input a number between 10 and 55 -"))
+x_2 = 466.6676*distance - 2636.67
+print("For t=" ,distance, "minutes, the position p =" ,x_2, "kilometres")
