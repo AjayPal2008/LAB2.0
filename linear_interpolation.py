@@ -11,6 +11,7 @@
 # Date:                4 september 2026
 
 
+from math import *
 initial_distance = 2030 
 initial_time = 10
 final_distance = 23030
@@ -19,6 +20,6 @@ slope = (final_distance - initial_distance) / (final_time - initial_time)#calcul
 y_intercept = initial_distance - slope * initial_time
 
 
-
+circ_m = 2*pi*6745
 print("Part 1:\nFor t = 25 minutes, the position p =", (slope * 25 + y_intercept), "kilometers")
-print("Part 2:\nFor t = 300 minutes, the position p =", (slope * 300 + y_intercept)%42380.19, "kilometers")
+print("Part 2:\nFor t = 300 minutes, the position p =", (slope * 300 + y_intercept)%circ_m, "kilometers")
